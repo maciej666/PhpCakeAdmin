@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "id" : "1",
+      "invoice_nr" : "K1/33/2016",
+      "issue_date" : "12.12.2016",
+      "invoice_amount" : "432.23",
+      "company_name" : "Piekarnia red",
+      "company_address" : "Poznan",
+      "email" : "cake@tlen.pl"
+    },
+    {
+      "id" : "2",
+      "invoice_nr" : "W2/22/2015",
+      "issue_date" : "13.11.2015",
+      "invoice_amount" : "324",
+      "company_name" : "Sklep blue",
+      "company_address" : "Chile",
+      "email" : "bake@o2.pl"
+    },
+    {
+      "id" : "3",
+      "invoice_nr" : "T1/323/2017",
+      "issue_date" : "01.01.2017",
+      "invoice_amount" : "213.22",
+      "company_name" : "Cukiernia yellow",
+      "company_address" : "Peru",
+      "email" : "store@o2.pl"
+    },
+    {
+      "id" : "4",
+      "invoice_nr" : "K1/33/2016",
+      "issue_date" : "12.12.2016",
+      "invoice_amount" : "432.23",
+      "company_name" : "Piekarnia red",
+      "company_address" : "Poznan",
+      "email" : "cake@tlen.pl"
+    },
+    {
+      "id" : "5",
+      "invoice_nr" : "W2/22/2015",
+      "issue_date" : "13.11.2015",
+      "invoice_amount" : "324",
+      "company_name" : "Sklep blue",
+      "company_address" : "Chile",
+      "email" : "bake@o2.pl"
+    },
+    {
+      "id" : "6",
+      "invoice_nr" : "T1/323/2017",
+      "issue_date" : "01.01.2017",
+      "invoice_amount" : "213.22",
+      "company_name" : "Cukiernia yellow",
+      "company_address" : "Peru",
+      "email" : "store@o2.pl"
+    },
+    {
+      "id" : "7",
+      "invoice_nr" : "K1/33/2016",
+      "issue_date" : "12.12.2016",
+      "invoice_amount" : "432.23",
+      "company_name" : "Piekarnia red",
+      "company_address" : "Poznan",
+      "email" : "cake@tlen.pl"
+    },
+    {
+      "id" : "8",
+      "invoice_nr" : "W2/22/2015",
+      "issue_date" : "13.11.2015",
+      "invoice_amount" : "324",
+      "company_name" : "Sklep blue",
+      "company_address" : "Chile",
+      "email" : "bake@o2.pl"
+    },
+    {
+      "id" : "9",
+      "invoice_nr" : "T1/323/2017",
+      "issue_date" : "01.01.2017",
+      "invoice_amount" : "213.22",
+      "company_name" : "Cukiernia yellow",
+      "company_address" : "Peru",
+      "email" : "store@o2.pl"
+    },
+    {
+      "id" : "10",
+      "invoice_nr" : "K1/33/2016",
+      "issue_date" : "12.12.2016",
+      "invoice_amount" : "432.23",
+      "company_name" : "Piekarnia red",
+      "company_address" : "Poznan",
+      "email" : "cake@tlen.pl"
+    },
+    {
+      "id" : "11",
+      "invoice_nr" : "W2/22/2015",
+      "issue_date" : "13.11.2015",
+      "invoice_amount" : "324",
+      "company_name" : "Sklep blue",
+      "company_address" : "Chile",
+      "email" : "bake@o2.pl"
+    },
+    {
+      "id" : "12",
+      "invoice_nr" : "T1/323/2017",
+      "issue_date" : "01.01.2017",
+      "invoice_amount" : "213.22",
+      "company_name" : "Cukiernia yellow",
+      "company_address" : "Peru",
+      "email" : "store@o2.pl"
+    },
+    {
+      "id" : "13",
+      "invoice_nr" : "K1/33/2016",
+      "issue_date" : "12.12.2016",
+      "invoice_amount" : "432.23",
+      "company_name" : "Piekarnia red",
+      "company_address" : "Poznan",
+      "email" : "cake@tlen.pl"
+    }
+  ]
+}

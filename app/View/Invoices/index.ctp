@@ -1,0 +1,1 @@
+<h1>Strona dla niezalogowanych</h1>
